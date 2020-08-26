@@ -1,5 +1,7 @@
 # c0gnito
 
+NOTE: This source isnt perfect i made it in 20 minuets please look over the code and try to understand it before implementing this into your application!
+
 #How to use
 
 the included source code for this project is all you need besides an account for https://c0gnito.cc/
