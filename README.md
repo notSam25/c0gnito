@@ -23,4 +23,4 @@ To setup the rest of the source refer to the setup instructions
 there are some video tutorials on the official youtube channel for c0gnito(https://www.youtube.com/channel/UCnjb78K4FK-mHdCGHqZzLcg)
 
 Keep in mind only the C++ labeled tutorials will work because this is a C++ source code
-if further help is needed contact someone in the c0gnito discord server(https://discord.gg/PKH5ysw) or me(notWeedle#0133)
+if further help is needed contact someone in the c0gnito discord server(https://discord.gg/PKH5ysw)
