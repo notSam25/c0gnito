@@ -1,6 +1,8 @@
 # c0gnito
 
-NOTE: This source isnt perfect i made it in 20 minuets please look over the code and try to understand it before implementing this into your application!
+#WARNING! c0gnito is unsecure licensing system and is easily crackable, this project is aimed towwords giving a basic guide for using c0gnito.
+
+NOTE: This source isnt perfect i made it in 20, please look over the code and try to understand it before implementing this into your application!
 
 #How to use
 
